@@ -1,6 +1,6 @@
 # API-AdWords
 Scripts de PHP para el uso de la API de AdWords. 
-Puedes tener más info sobre la API de AdWords aquí: apiadwords.blogspot.com
+Puedes tener más info sobre la API de AdWords aquí: http://apiadwords.blogspot.com
 
 # Instrucciones
 Para poder usar los scripts, primero tienes que configurar la API de AdWords, puedes ver como se hace en este sencillo tutorial de 6 pasos
